@@ -16,7 +16,8 @@ CRAO (Code Refactoring Analysis and Optimization) is an open-source software too
 ## User Interface Demo
 
 ### Initial Interface
-![CRAO Interface](https://raw.githubusercontent.com/username/CROA-Refactoring-Software/main/docs/images/ui-empty.png)
+![WhatsApp Image 2024-11-12 at 13 06 17_9042dfb3](https://github.com/user-attachments/assets/33517c53-a7ba-4ea5-8b98-06cfead181ab)
+
 
 The tool provides a clean, user-friendly interface where developers can input their Python code for analysis. The interface includes:
 - A clear title and description
@@ -24,7 +25,7 @@ The tool provides a clean, user-friendly interface where developers can input th
 - An "Analyze Code" button for triggering the analysis
 
 ### Code Analysis Example 1: Complex Function
-![Complex Function Analysis](https://raw.githubusercontent.com/username/CROA-Refactoring-Software/main/docs/images/ui-complex.png)
+![WhatsApp Image 2024-11-12 at 13 08 08_7d0fa265](https://github.com/user-attachments/assets/18786ac0-ed9a-48f5-81d7-bdf15cedd8c6)
 
 In this example, the tool analyzes a function with multiple parameters and nested conditions:
 - Identifies long parameter list (8 parameters)
@@ -33,7 +34,7 @@ In this example, the tool analyzes a function with multiple parameters and neste
 - Highlights potential code smells
 
 ### Code Analysis Example 2: Simple Functions
-![Simple Functions Analysis](https://raw.githubusercontent.com/username/CROA-Refactoring-Software/main/docs/images/ui-simple.png)
+![WhatsApp Image 2024-11-12 at 13 10 37_a0884e6b](https://github.com/user-attachments/assets/4128d3fc-c987-490f-80c0-e8c0c240f194)
 
 The tool can also analyze simpler code structures:
 - Multiple small functions analyzed together
