@@ -49,8 +49,12 @@ The tool can also analyze simpler code structures:
 git clone https://github.com/archana1822/CROA-Refactoring-Software.git
 cd CROA-Refactoring-Software
 ```
+2. Code folder:
+```bash
+cd code
+```
 
-2. Install required dependencies:
+3. Install required dependencies:
 ```bash
 pip install -r requirements.txt
 ```
